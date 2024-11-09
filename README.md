@@ -1,2 +1,2 @@
-# CVM-UNet
-CVM-UNet: Cascaded VMamba UNet for Medical Image Segmentation
+# CVMFE-Net
+Macaron Architecture: An efficient VMamba-based model for medical image segmentation
