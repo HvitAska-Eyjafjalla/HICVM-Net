@@ -19,7 +19,7 @@ For other dataset, the images are randomly split into training, validation, and 
 The dataset path may look like:
 ```bash
 HICVM-Net-main
-├── /datasets/
+├── datasets/
 	├── BUSI/
 		├── Train_Folder/
 		│   ├── img
