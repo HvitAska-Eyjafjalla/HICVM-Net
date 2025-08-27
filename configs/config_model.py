@@ -15,13 +15,13 @@ class CVM_UNetConfig:
         # 各层Encoder的 CVMFELayer中的 CVMFEBlock中的 CascadedVMambaBlock的 多头数量
         self.encoder_cvmfeblock_cvm_heads_list = [2, 2, 4, 4]
         # 各层Encoder的 CVMFELayer中的 CVMFEBlock中的 CascadedVMambaBlock的 级联数量列表
-        self.encoder_cvmfeblock_cvm_depth_list = [2, 2, 1, 2]
+        self.encoder_cvmfeblock_cvm_depth_list = [2, 2, 2, 2]
         # 各层Encoder的 CVMFELayer中的 CVMFEBlock的 级联数量
         self.encoder_cvmfeblock_depth_list = [2, 2, 2, 2]
         # 各层Decoder的 CVMFELayer中的 CVMFEBlock中的 CascadedVMamba1Block的 多头数量
         self.decoder_cvmfeblock_cvm_heads_list = [4, 4, 2, 2]
         # 各层Decoder的 CVMFELayer中的 CVMFEBlock中的 CascadedVMambaBlock的 级联数量列表
-        self.decoder_cvmfeblock_cvm_depth_list = [2, 1, 2, 2]
+        self.decoder_cvmfeblock_cvm_depth_list = [2, 2, 2, 2]
         # 各层Decoder的 CVMFELayer中的 CVMFEBlock的 级联数量
         self.decoder_cvmfeblock_depth_list = [2, 2, 2, 2]
         # CascadedVMambaBlock与FeatureEnhanceBlock 在全部CVMFEBlock中的 比率
@@ -54,4 +54,5 @@ class SwinUMambaConfig:
 
 class SwinPAConfig:
     def __init__(self, UniversalConfig):
+
         self.out_planes = UniversalConfig.num_classes
