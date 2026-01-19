@@ -79,11 +79,11 @@ python test.py
 ## Citation
 
 Our repo is useful for your research, please consider citing our article. <br>
-This article has been submitted for peer-review in the journal called *Neurocomputing*.<br>
+This article has been submitted for peer-review in the journal called *Biomedical Signal Processing and Control*.<br>
 ```bibtex
 @ARTICLE{HICVM-Net,
   author  = {Zirui Yan, Shiren Li, Fizza Ghulam Nabi, Serestina Viriri, Qian Dong and Guangguang Yang},
-  journal = {Neurocomputing}
+  journal = {Biomedical Signal Processing and Control}
   title   = {HICVM-Net: Hybrid Interaction Cascaded VMamba Network for Medical Image Segmentation},
   year    = {2025}
 }
