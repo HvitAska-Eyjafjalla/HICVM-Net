@@ -83,7 +83,7 @@ This article has been submitted for peer-review in the journal called *Biomedica
 ```bibtex
 @ARTICLE{HICVM-Net,
   author  = {Zirui Yan, Shiren Li, Fizza Ghulam Nabi, Serestina Viriri, Qian Dong and Guangguang Yang},
-  journal = {Biomedical Signal Processing and Control}
+  journal = {The Visual Computer}
   title   = {HICVM-Net: Hybrid Interaction Cascaded VMamba Network for Medical Image Segmentation},
   year    = {2025}
 }
