@@ -79,7 +79,7 @@ python test.py
 ## Citation
 
 Our repo is useful for your research, please consider citing our article. <br>
-This article has been submitted for peer-review in the journal called *The Visual Computer*.<br>
+This article has been submitted for peer-review in the journal called *Expert Systems: The Journal of Knowledge Engineering*.<br>
 ```bibtex
 @ARTICLE{HICVM-Net,
   author  = {Zirui Yan, Shiren Li, Fizza Ghulam Nabi, Serestina Viriri, Qian Dong and Guangguang Yang},
