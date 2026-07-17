@@ -76,19 +76,6 @@ python test.py
 ``` 
 
 
-## Citation
-
-Our repo is useful for your research, please consider citing our article. <br>
-This article has been submitted for peer-review in the journal called *Expert Systems: The Journal of Knowledge Engineering*.<br>
-```bibtex
-@ARTICLE{HICVM-Net,
-  author  = {Zirui Yan, Shiren Li, Fizza Ghulam Nabi, Serestina Viriri, Qian Dong and Guangguang Yang},
-  journal = {The Visual Computer}
-  title   = {HICVM-Net: Hybrid Interaction Cascaded VMamba Network for Medical Image Segmentation},
-  year    = {2025}
-}
-```
-
 
 ## Contact
 For technical questions, please contact yanagiama@gmail.com .
